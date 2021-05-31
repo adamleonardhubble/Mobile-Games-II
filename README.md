@@ -1,5 +1,5 @@
 # Mobile Games II
-Byte, mobile game
+Byte - mobile game
 
 Author:
 Adam Hubble
