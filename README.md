@@ -1,2 +1,2 @@
-# Mobile-Games-II
-Byte
+#Mobile Games II
+Byte mobile game
