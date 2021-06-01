@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: fbd4ee80689d2b84ab4bc99f4c645569
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Audio_IN_L
+    100002: Audio_IN_R
+    100004: LED
+    100006: NextChannel
+    100008: PoweButton
+    100010: PowerPlug
+    100012: PrevChannel
+    100014: //RootNode
+    100016: Stand_L
+    100018: Stand_R
+    100020: Video_IN
+    100022: VolumeDown
+    100024: VolumeUp
+    400000: Audio_IN_L
+    400002: Audio_IN_R
+    400004: LED
+    400006: NextChannel
+    400008: PoweButton
+    400010: PowerPlug
+    400012: PrevChannel
+    400014: //RootNode
+    400016: Stand_L
+    400018: Stand_R
+    400020: Video_IN
+    400022: VolumeDown
+    400024: VolumeUp
+    2100000: TV_Body
+    2100002: Visor
+    2100004: Audio_L
+    2100006: Plug_Default
+    2100008: Audio_R
+    2100010: Power_Body_Out
+    2100012: Material
+    2100014: Video
+    2100016: Button
+    2100018: Led_Body
+    2100020: LED
+    2100022: Stand
+    2300000: Audio_IN_L
+    2300002: Audio_IN_R
+    2300004: LED
+    2300006: NextChannel
+    2300008: PoweButton
+    2300010: PowerPlug
+    2300012: PrevChannel
+    2300014: //RootNode
+    2300016: Stand_L
+    2300018: Stand_R
+    2300020: Video_IN
+    2300022: VolumeDown
+    2300024: VolumeUp
+    3300000: Audio_IN_L
+    3300002: Audio_IN_R
+    3300004: LED
+    3300006: NextChannel
+    3300008: PoweButton
+    3300010: PowerPlug
+    3300012: PrevChannel
+    3300014: //RootNode
+    3300016: Stand_L
+    3300018: Stand_R
+    3300020: Video_IN
+    3300022: VolumeDown
+    3300024: VolumeUp
+    4300000: TV
+    4300002: Audio_IN_L
+    4300004: Audio_IN_R
+    4300006: PowerPlug
+    4300008: Video_IN
+    4300010: PrevChannel
+    4300012: NextChannel
+    4300014: VolumeUp
+    4300016: VolumeDown
+    4300018: PoweButton
+    4300020: LED
+    4300022: Stand_L
+    4300024: Stand_R
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Audio_L
+    second: {fileID: 2100000, guid: d3ac97e28acfde34693a6ef6b6421ea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Audio_R
+    second: {fileID: 2100000, guid: 276c5592b75a5b34c8c4842d70c99c43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button
+    second: {fileID: 2100000, guid: 28c24994a72591849a6b5c50a42eb701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED
+    second: {fileID: 2100000, guid: 1c80e6137d157464f9d6fcbabd635e52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Led_Body
+    second: {fileID: 2100000, guid: 9acbf90a79d15944a8753fb43b1650a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 48734a32b14ee4c4ca9142a8d0f3b783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plug_Default
+    second: {fileID: 2100000, guid: df6e6ace5b4ad554b90d713b782b6cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Power_Body_Out
+    second: {fileID: 2100000, guid: 4a06372490622b446baff60ec1302f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stand
+    second: {fileID: 2100000, guid: 3c487714c87b1634a8c783b1bf0601ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Body
+    second: {fileID: 2100000, guid: 444658afb1dcb52418e4bcf4992565e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Video
+    second: {fileID: 2100000, guid: a2c593ec91ee19f479a12a3e93ba0955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Visor
+    second: {fileID: 2100000, guid: 4e1a08ad5b3dffc489b741277cebc7bd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
